@@ -16,12 +16,12 @@ Siguiendo una estructura de carpetas para orden.
   styles.css
 
 ## Principales funcionalidades
-- Muestra cartas en el HTML
+- Muestra cartas en el HTML ✔️
 
 ## Funcionalidades adicionales
-- Filtrar usuarios por condiciones
-- Mostrar en tarjetas visuales
-- Agregar buscador
+- Filtrar usuarios por condiciones ✔️
+- Mostrar en tarjetas visuales ✔️
+- Agregar buscador ✔️
 
 ## Principales aprendizaje
 Principalmente lo que aprendi es: 
