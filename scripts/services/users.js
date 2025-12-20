@@ -1,5 +1,3 @@
-import { stateToUsers } from "./usersState.js";
-
 const url = `https://jsonplaceholder.typicode.com/users`
 
 export async function usersApis(){

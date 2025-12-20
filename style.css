@@ -6,11 +6,29 @@
 
 body{
     background-color: #222;
-    display: grid;
+}
+
+#title>h1{
+    justify-self: center;
+}
+
+#find_user{
     justify-content: center;
+    display: flex;
+    column-gap: 10px;
+}
+
+#find_user>button, #find_user>input{
+    color: black;
 }
 
 #users{
     display: grid;
-    grid-template-rows: repeat(4, 1fr);
+    row-gap: 10px;
+    grid-template-columns: repeat(3, auto);
+}
+
+.cards-container{
+    background-color: tomato;
+    display: grid;
 }

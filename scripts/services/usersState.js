@@ -1,6 +1,6 @@
-import renderUsers from "./renderUi.js"
+import renderUsers from "../components/renderUi.js"
 
-let userState
+let userState = []
 
 export function stateToUsers(data){
     userState = [{users: data}]
