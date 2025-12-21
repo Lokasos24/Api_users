@@ -23,7 +23,7 @@ Siguiendo una estructura de carpetas para orden.
 - Mostrar en tarjetas visuales ✔️
 - Agregar buscador ✔️
 
-## Principales aprendizaje
+## Principales aprendizajes
 Principalmente lo que aprendi es: 
 - Como consumir una API con fetch/async-await.
 - Como manejar estado local y renderizar dinamicamente.
@@ -31,8 +31,8 @@ Principalmente lo que aprendi es:
 - Renderizar UI cuando se pasan datos cambiados.
 
 ## Instalación
-1- Clonar el repositorio.
-2- Abrir index.html en tu navegador
+- Clonar el repositorio.
+- Abrir index.html en tu navegador
 
 ## Tecnologías
 - JavaScript
